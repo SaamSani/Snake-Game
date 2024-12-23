@@ -43,22 +43,3 @@ This repository contains a classic Snake Game implemented in Python using the `t
    ```bash
    git clone https://github.com/yourusername/snake-game.git
    cd snake-game
-Install Python (if not already installed):
-Version: Python 3.9 or later recommended.
-Run the game:
-bash
-Copy code
-python main.py
-Dependencies
-Built-in Python modules:
-turtle
-random
-time
-Customization
-You can customize the game by modifying the code:
-
-Snake Appearance: Change the shape or color in snake.py.
-Food Appearance: Modify size or color in food.py.
-Game Area: Adjust screen dimensions in main.py.
-Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request with your enhancements or bug fixes.
